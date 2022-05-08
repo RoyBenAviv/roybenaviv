@@ -5,7 +5,7 @@
 
 - 💻 Checkout my latest project [TRELLOX](https://trelloxx.herokuapp.com/#/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/RoyBenAviv?tab=repositories](https://github.com/RoyBenAviv?tab=repositories)
+- 👨‍💻 All of my recent projects are available at [https://roybenaviv.github.io/portfolio/](https://roybenaviv.github.io/portfolio/)
 
 - 📫 You can reach me in **roybenavivv@gmail.com**
 
