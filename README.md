@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning and improving my **Angular skills.**
 
+- 🏢 I’m currently working on [Netflix](https://roybenaviv.github.io/Netflix/#/)
+
 - 💻 Checkout my latest project [TRELLOX](https://trelloxx.herokuapp.com/#/)
 
 - 👨‍💻 All of my recent projects are available at [https://roybenaviv.github.io/portfolio/](https://roybenaviv.github.io/portfolio/)
