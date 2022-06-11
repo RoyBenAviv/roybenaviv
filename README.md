@@ -24,7 +24,9 @@
 <br/>
 <a href="#"><img alt="Roy Ben Aviv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roybenaviv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-
+<h2 align="left">Codewars</h2>
+<img src="https://www.codewars.com/users/RoyBenAviv/badges/large" alt="codewars" />
+<br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/roy-ben-aviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy-ben-aviv" height="30" width="40" /></a>
