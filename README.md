@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy.</h1>
-<h3 align="center">I'm looking for a new role in Frontend / Full stack development positions.</h3>
+<h3 align="center">I am a Full stack developer.</h3>
 
-- 🌱 I’m currently learning and improving my **Angular skills.**
-
-- 🏢 I’m currently working on [Netflix](https://roybenaviv.github.io/netclone/#/)
-
-- 💻 Checkout my latest project [TRELLOX](https://trelloxx.herokuapp.com/#/)
+- 💻 Checkout my latest project [TRELLOX](https://trellox-production.up.railway.app/#/)
 
 - 👨‍💻 All of my recent projects are available at [https://roybenaviv.github.io/portfolio/](https://roybenaviv.github.io/portfolio/)
 
