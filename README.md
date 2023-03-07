@@ -18,7 +18,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roybenaviv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="roybenaviv" />
 </p>
 <br/>
-<a href="#"><img alt="Roy Ben Aviv's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roybenaviv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
